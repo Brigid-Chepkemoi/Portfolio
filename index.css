@@ -1,0 +1,26 @@
+.nav{
+  height: 100px;
+  background-color: rgb(31, 31, 97);
+font-weight: bolder;
+display: flex;
+}
+ul li{
+  text-decoration: none;
+}
+.nav ul li{
+  display: inline;
+  color: blanchedalmond;
+  font-size: 20px;
+  font-weight: 400px;
+  padding: 20px 40px;
+}
+.nav p{
+  font-size: 30px;
+  color: blanchedalmond;
+  padding-left: 5%;
+}
+.nav ul{
+  display: flex;
+  margin-left: 40%;
+  
+}
