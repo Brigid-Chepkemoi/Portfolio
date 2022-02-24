@@ -22,5 +22,11 @@ ul li{
 .nav ul{
   display: flex;
   margin-left: 40%;
+}
+.image{
+  margin-left: 30%;
+}
+.about{
   
 }
+
