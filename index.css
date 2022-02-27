@@ -1,6 +1,14 @@
+*{
+
+  padding: 0;
+  margin: 0;
+  position: relative;
+
+  
+}
 .nav{
-  height: 100px;
-  background-color: rgb(31, 31, 97);
+  height: 100px;  
+    background-color: #320e3a!important;
 font-weight: bolder;
 display: flex;
 }
@@ -12,21 +20,97 @@ ul li{
   color: blanchedalmond;
   font-size: 20px;
   font-weight: 400px;
-  padding: 20px 40px;
+  padding: 20px 45px;
 }
 .nav p{
   font-size: 30px;
   color: blanchedalmond;
   padding-left: 5%;
+  padding-top: 2%;
 }
 .nav ul{
   display: flex;
-  margin-left: 40%;
-}
-.image{
-  margin-left: 30%;
+  margin-left: 20%;
 }
 .about{
-  
+    height: 450px;
+    background-image: linear-gradient(360deg, rgb(6, 250, 238), white);
+    display: flex;
+}
+.image{
+    margin-left: 40%;
+
+}
+.text{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.insert{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* padding: 5%; */
+
+}
+.peace{
+/* border: 2px solid grey; */
+height: 250px;
+margin-right:4% ;
+border-radius: 10px;
+background-color: #320e3a!important;
+color: white;
+box-shadow: 5px 5px 10px 0px #000;
+width: 250px;
+
+
+
+
+}
+.set{
+/* border: 2px solid grey; */
+border-radius: 10px;
+background-color: rgb(240, 98, 80); 
+color: white;
+box-shadow: 5px 5px 10px 0px #000;
+width: 250px;
+
+
+}
+.fn{
+/* border: 2px solid grey; */
+margin-left: 4%;
+border-radius: 10px;
+background-color: #9fd0cc;
+box-shadow: 5px 5px 10px 0px #000;
+width: 250px;
+
+}
+.sec2{
+height: 400px;
+background-image: linear-gradient(180deg, rgb(6, 250, 238), white);
+}
+.sec2 h4{
+text-align: center;
+padding-top: 4%;
+}
+.sec3{
+background-color: white;
+
+height: 400px;
+}
+.sec3 h4{
+text-align: center;
+padding-top: 4%;
+
+}
+.footer{
+height: 250px;
+background-color: #320e3a!important;
+}
+.last{
+height: 50px;
+background-image: url(https://adawaygroup.com/wp-content/uploads/2021/06/Cropped-Purple-Footer-Dashed-Lines.png);
+padding-top: 2.5%!important;
+padding-bottom: 2.5%!important;
 }
 
