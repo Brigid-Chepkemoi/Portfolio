@@ -97,17 +97,25 @@ width: 350px;
 
 }
 .sec2{
-height: 400px;
-background-image: linear-gradient(180deg, rgb(6, 250, 238), white);
+  height: 400px;
+  background-image: linear-gradient(180deg, rgb(73, 232, 243), white);
+  display: flex;
+  padding-top: 5%;
 }
-.sec2 h4{
-text-align: center;
-padding-top: 4%;
+.skills{
+  margin-left: 25%;
+   
+ }
+ .sec2 img{
+  padding-left:5%;
+  }
+ .sec3 h4{
+  text-align: center;
+  padding-top: 4%;
 }
 .sec3{
-background-color: white;
-
-height: 400px;
+  background-color: white;
+  height: 700px;
 }
 .sec3 h4{
 text-align: center;
@@ -120,10 +128,10 @@ background-color: #320e3a!important;
 display: flex; 
 }
 .last{
-height: 50px;
-background-image: url(https://adawaygroup.com/wp-content/uploads/2021/06/Cropped-Purple-Footer-Dashed-Lines.png);
-padding-top: 2.5%!important;
-padding-bottom: 2.5%!important;
+  height: 20px;
+  background-image: url(https://adawaygroup.com/wp-content/uploads/2021/06/Cropped-Purple-Footer-Dashed-Lines.png);
+  padding-top: 2.5%!important;
+  padding-bottom: 2.5%!important;
 }
 .icons{
   color: blanchedalmond;
@@ -140,8 +148,35 @@ padding-bottom: 2.5%!important;
   margin-left: 2%;
 }
 label{
-  margin-left: 60%;
+  margin-left: 40%;
   padding-top: 5%;
 }
+.hack{
+  display: flex;
+  padding-left: 10%;
+  padding-top: 5%;
+}
+.ethic{
+  color: #c1413D;
+ 
+}
+.AWS{
+  margin-left: 50%;
+  color: #320e3a;
 
+}
+.home{
+  display: flex;
+  padding-top: 5%;
+  padding-left: 5%;
+}
+.oracle{
+
+  color: #320e3a;
+  padding-left: 6%;
+}
+.cloud{
+  margin-left: 50%;
+  color: #c1413D;
+}
 
