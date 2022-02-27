@@ -47,14 +47,13 @@ ul li{
 }
 .insert{
   display: inline-flex;
-  justify-content: center;
+  /* justify-content: center; */
   text-align: center;
-   
+   font-size: 25px;
    top:-100px;
    left: 10%;
-
-
-
+/* transform: translateX(5%) translateY(5%); */
+/* mix-blend-mode: unset; */
 }
 .peace{
 /* border: 2px solid grey; */
@@ -118,6 +117,7 @@ padding-top: 4%;
 .footer{
 height: 250px;
 background-color: #320e3a!important;
+display: flex; 
 }
 .last{
 height: 50px;
@@ -129,14 +129,19 @@ padding-bottom: 2.5%!important;
   color: blanchedalmond;
   border-radius: 50%;
   /* display: flex; */
-  margin: 10%;
+  /* margin: 10%;  */
   padding-top: 5%;
+  padding-left: 5%;
 }
 #fob{
   margin-left: 2%;
 }
 #fub{
   margin-left: 2%;
+}
+label{
+  margin-left: 60%;
+  padding-top: 5%;
 }
 
 
