@@ -125,3 +125,18 @@ background-image: url(https://adawaygroup.com/wp-content/uploads/2021/06/Cropped
 padding-top: 2.5%!important;
 padding-bottom: 2.5%!important;
 }
+.icons{
+  color: blanchedalmond;
+  border-radius: 50%;
+  /* display: flex; */
+  margin: 10%;
+  padding-top: 5%;
+}
+#fob{
+  margin-left: 2%;
+}
+#fub{
+  margin-left: 2%;
+}
+
+
