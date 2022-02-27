@@ -65,7 +65,18 @@ background-color: #320e3a!important;
 color: white;
 box-shadow: 5px 5px 10px 0px #000;
 width: 350px;
+ /* padding: 10%;  */
 
+
+}
+.interest{
+  padding-top: 40%;
+}
+.Hobbies{
+  padding-top: 40%;
+}
+.Works{
+  padding-top: 40%;
 }
 .set{
 /* border: 2px solid grey; */
