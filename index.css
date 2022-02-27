@@ -34,12 +34,11 @@ ul li{
 }
 .about{
     height: 600px;
-    background-image: linear-gradient(360deg, rgb(6, 250, 238), white);
+    background-image: linear-gradient(90deg, rgb(248, 252, 252), rgb(230, 218, 218));
     display: flex;
 }
 .image{
     margin-left: 30%;
-    
     
 }
 .text{
@@ -47,21 +46,25 @@ ul li{
     padding-left: 5%;
 }
 .insert{
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   text-align: center;
-  /* padding: 5%; */
+   
+   top:-100px;
+   left: 10%;
+
+
 
 }
 .peace{
 /* border: 2px solid grey; */
-height: 250px;
-margin-right:4% ;
+height: 350px;
+margin-right:10% ;
 border-radius: 10px;
 background-color: #320e3a!important;
 color: white;
 box-shadow: 5px 5px 10px 0px #000;
-width: 250px;
+width: 350px;
 
 }
 .set{
@@ -70,17 +73,17 @@ border-radius: 10px;
 background-color: rgb(240, 98, 80); 
 color: white;
 box-shadow: 5px 5px 10px 0px #000;
-width: 250px;
+width: 350px;
 
 
 }
 .fn{
 /* border: 2px solid grey; */
-margin-left: 4%;
+margin-left: 10%;
 border-radius: 10px;
 background-color: #9fd0cc;
 box-shadow: 5px 5px 10px 0px #000;
-width: 250px;
+width: 350px;
 
 }
 .sec2{
