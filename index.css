@@ -38,12 +38,13 @@ ul li{
     display: flex;
 }
 .image{
-    margin-left: 30%;
+    margin-left: 10%;
     
 }
 .text{
-    padding-top: 5%;
-    padding-left: 5%;
+    padding-top: 10%;
+    padding-left: 3%;
+    color: #320e3a;
 }
 .insert{
   display: inline-flex;
