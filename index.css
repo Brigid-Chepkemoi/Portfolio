@@ -114,7 +114,7 @@ width: 350px;
   text-align: center;
   padding-top: 4%;
 }
-.sec3{
+.sec3{ 
   background-color: white;
   height: 650px;
   font-size: 25px;
@@ -148,7 +148,7 @@ label{
   margin-left: 5%;
   padding-top: 5%;
 }
-.hack{
+/* .hack{
   display: flex;
   padding-left: 10%;
   padding-top: 5%;
@@ -159,16 +159,11 @@ label{
  
 }
 .AWS{
-  margin-left: 50%;
+  margin-left: 10%;
   color: #320e3a;
 
 }
-.home{
-  display: flex;
-  padding-top: 5%;
-  padding-left: 5%;
-  
-}
+
 .oracle{
 
   color: #320e3a;
@@ -177,5 +172,20 @@ label{
 .cloud{
   margin-left: 50%;
   color: #c1413D;
-}
+} */
 
+.all{
+  display: flex;
+}
+.home{
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 5%;
+  
+}
+.hack{
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 5%;
+  
+}
