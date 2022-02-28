@@ -99,7 +99,7 @@ width: 350px;
 }
 .sec2{
   height: 400px;
-  background-image: linear-gradient(180deg, rgb(73, 232, 243), white);
+  background-image: linear-gradient(180deg, #9fd0cc, white);
   display: flex;
   padding-top: 5%;
 }
