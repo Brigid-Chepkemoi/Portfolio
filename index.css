@@ -115,12 +115,8 @@ width: 350px;
 }
 .sec3{
   background-color: white;
-  height: 700px;
-}
-.sec3 h4{
-text-align: center;
-padding-top: 4%;
-
+  height: 650px;
+  font-size: 25px;
 }
 .footer{
 height: 250px;
@@ -155,6 +151,7 @@ label{
   display: flex;
   padding-left: 10%;
   padding-top: 5%;
+
 }
 .ethic{
   color: #c1413D;
@@ -169,6 +166,7 @@ label{
   display: flex;
   padding-top: 5%;
   padding-left: 5%;
+  
 }
 .oracle{
 
